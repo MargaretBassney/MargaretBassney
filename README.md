@@ -10,3 +10,8 @@ Projects I have and am Currently working on
 [Function for transactional data](https://github.com/sds270/project_phase_1-MargaretBassney)- A function that turn data into a transactions object
 
 
+![](https://raw.githubusercontent.com/MargaretBassney/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/MargaretBassney/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
+![](https://raw.githubusercontent.com/MargaretBassney/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/MargaretBassney/github-stats/master/generated/languages.svg#gh-light-mode-only)
