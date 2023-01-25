@@ -15,3 +15,4 @@ Projects I have and am Currently working on
 
 ![](https://raw.githubusercontent.com/MargaretBassney/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
+[Code for repo stats](https://github.com/jstrieb/github-stats)
