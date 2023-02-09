@@ -1,7 +1,8 @@
-Hi my name is Margaret Bassney. I am a current student at Smith college and intern for Comparative Agility. I have a passion for data science and i love solving problems!
+Hello! I'm a recent grad from Smith College with a BA in Statistics and Data Science and a minor in Psychology. My time at Smith has taught me a lot about being critical and investigative about every data set I look at. I continuously advancing my technical and communication skills by taking my learning into my own hands while also learning from those around me. 
 
-### projects
-Projects I have and am Currently working on
+With proficiency in data analysis tools such as R and Python, I have honed my ability to extract insights from large data sets. My strong communication skills also enable me to clearly and effectively present findings to both technical and non-technical audiences.
+
+### Projects
 
 [Fairness Metrics in Machine Learning](https://github.com/sds-capstone/2022-09-proj7-women-at-table)- A jupyter notebook that analyzes financial data for Sub Saharan Regions from a human rights perspective
 
